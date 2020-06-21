@@ -7,3 +7,5 @@ It has four leds indicator:
   - Red:    Error
   - Yellow: Program mode (sending program)
   - Green:  Test led connected to D8
+
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
